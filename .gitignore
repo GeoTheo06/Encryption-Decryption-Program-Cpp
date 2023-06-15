@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Encryption-Decryption-Program-Cpp.sln
+/Encryption-Decryption-Program-Cpp.vcxproj
+/Encryption-Decryption-Program-Cpp.vcxproj.filters
+/Encryption-Decryption-Program-Cpp.vcxproj.user
+/x64/Debug
